@@ -6,6 +6,9 @@ Unfinished sequel to Banana Brawl with working online multiplayer, also from Hig
 ## Wild
 
 <img align="left" width="97" height="93" alt="Screen Shot 2026-02-25 at 10 38 44" src="https://github.com/user-attachments/assets/70571140-a3a6-4eb1-bb7e-89661790379f" />
+
+<br><br><br><br>
+
 <img align="left" width="112" height="104" alt="Screen Shot 2026-02-25 at 10 34 32" src="https://github.com/user-attachments/assets/735e99f5-230d-491f-a337-99af67c9b62e" />
 <img align="left" width="107" height="135" alt="Screen Shot 2026-02-25 at 10 38 08" src="https://github.com/user-attachments/assets/1e532c3e-f950-4b86-a7fe-735ea04a32b1" />
 <img align="left" width="82" height="77" alt="Screen Shot 2026-02-25 at 10 39 26" src="https://github.com/user-attachments/assets/3c2f4451-54f4-48b1-a750-ffd3e3b594a5" />
@@ -25,8 +28,8 @@ Unfinished sequel to Banana Brawl with working online multiplayer, also from Hig
 
 
 ## Debug
-<img align="left" width="65" height="61" alt="Screen Shot 2026-02-25 at 10 33 47" src="https://github.com/user-attachments/assets/d89e298c-61d2-478c-9d43-c604688c318b" />
+<img align="left" width="100" height="100" alt="Screen Shot 2026-02-25 at 10 33 47" src="https://github.com/user-attachments/assets/d89e298c-61d2-478c-9d43-c604688c318b" />
 <img align="left" width="97" height="99" alt="Screen Shot 2026-02-25 at 10 38 30" src="https://github.com/user-attachments/assets/b0183b0b-0259-4342-8d5a-cae116ee4265" />
 
-<img align="left" width="135" height="138" alt="Screen Shot 2026-02-25 at 10 36 53" src="https://github.com/user-attachments/assets/a2243cdd-1ff7-4bee-b6e3-a789ca51dd01" />
+<img align="left" width="100" height="100" alt="Screen Shot 2026-02-25 at 10 36 53" src="https://github.com/user-attachments/assets/a2243cdd-1ff7-4bee-b6e3-a789ca51dd01" />
 
