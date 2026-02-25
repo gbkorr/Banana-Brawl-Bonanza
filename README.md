@@ -35,11 +35,11 @@ Unfinished sequel to Banana Brawl with working online multiplayer, also from Hig
 
 [Master of Arms]. Can launch 4 different kinds of missiles, including the dreaded ICBM (Intercontinental Banana Missile). The pyrotechnic animations are particularly pretty on this one. 
 
-<br><br><br><br>
+<br><br><br>
 
 <img align="left" width="102" height="125" alt="Screen Shot 2026-02-25 at 10 37 37" src="https://github.com/user-attachments/assets/ce974456-a2a5-48df-bc40-f90c7b4f6b5d" />
 
-<br><br><br><br>
+<br><br><br><br><br>
 
 ## Debug
 <img align="left" width="100" height="100" alt="Screen Shot 2026-02-25 at 10 33 47" src="https://github.com/user-attachments/assets/d89e298c-61d2-478c-9d43-c604688c318b" />
