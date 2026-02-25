@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <script src="resources/gameData.js" type="text/javascript"></script> <!--ingame data for characters, projectiles, etc.-->
+        <script src="resources/loadSprites.js" type="text/javascript"></script> <!--sprites-->
+        <script src="resources/engine.js" type="text/javascript"></script> <!--contains all the code for a match-->
+        <script src="resources/rollback.js" type="text/javascript"></script> <!--all online functions for a match-->
+        <script src="resources/lobbies.js" type="text/javascript"></script> <!--online functions for lobbies-->
+        <script src="resources/menus.js" type="text/javascript"></script> <!--all the menu stuff-->
+        <script src="resources/runner.js" type="text/javascript"></script> <!--runs the code in browser-->
+        <style type="text/css">
+            body { margin:0; overflow: hidden;} 
+        </style> <!-- This makes the canvas fill the whole screen, and prevents you from scrolling past the edges. -->
+    </head>
+
+        <body>
+            <body onload="setup();">
+                <canvas id="gameCanvas" width="0" height="0"></canvas> <!--Canvas is set to the window size later-->
+            </body>
+        </body>
+
+</html>
