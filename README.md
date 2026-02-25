@@ -9,6 +9,12 @@ And of course, the art and animations are of a much higher quality than Banana B
 lotsa videos
 
 
+<img width="600" height="400" alt="buddha" src="https://github.com/user-attachments/assets/f2fbe172-1d90-44c3-bb7d-448a75d98af6" />
+
+![](https://github.com/user-attachments/assets/738f809e-93e0-47af-8520-9a5ab66b47f1)
+
+<img width="400" height="240" src="https://github.com/gbkorr/Banana-Brawl-Bonanza/blob/main/netcode_demo.gif" />
+
 ## Wild
 
 <img align="left" width="97" height="93" alt="Screen Shot 2026-02-25 at 10 38 44" src="https://github.com/user-attachments/assets/70571140-a3a6-4eb1-bb7e-89661790379f" />
