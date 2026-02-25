@@ -1,6 +1,12 @@
 # Banana-Brawl-Bonanza
-Unfinished sequel to Banana Brawl with working online multiplayer, also from High School. Code finished, but no fleshed-out game.
 
+Unfinished sequel to Banana Brawl with working online multiplayer, also from High School. The engine is complete, but no fleshed-out game.
+
+The focus of this project was to make really clean, maintainable code, and I think I succeeded. The codebase (aside from maybe the menus) was very convenient to work with and add new content to.
+
+
+
+lotsa videos
 
 
 ## Wild
@@ -53,3 +59,15 @@ Unfinished sequel to Banana Brawl with working online multiplayer, also from Hig
 <img align="left" width="100" height="100" alt="Screen Shot 2026-02-25 at 10 36 53" src="https://github.com/user-attachments/assets/a2243cdd-1ff7-4bee-b6e3-a789ca51dd01" />
 
 <br><br><br><br>
+
+
+## History
+
+
+
+## Repo Guide
+
+Banana Brawl Bonanza underwent a major code rewrite, and many assets and characters from the original Alpha version have yet to be reimplemented. The code and sprites for these can be found in the `Alpha Assets` folder.
+
+
+
