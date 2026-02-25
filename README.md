@@ -6,14 +6,14 @@ The focus of this project was to make really clean, maintainable code, and I thi
 
 And of course, the art and animations are of a much higher quality than Banana Brawl. 
 
-lotsa videos
-
-
 <img width="600" height="400" alt="buddha" src="https://github.com/user-attachments/assets/f2fbe172-1d90-44c3-bb7d-448a75d98af6" />
 
 ![](https://github.com/user-attachments/assets/738f809e-93e0-47af-8520-9a5ab66b47f1)
 
-<img width="400" height="240" src="https://github.com/gbkorr/Banana-Brawl-Bonanza/blob/main/netcode_demo.gif" />
+<img width="400" height="240" src="https://github.com/gbkorr/Banana-Brawl-Bonanza/blob/main/promo/netcode_demo.gif" />
+<img width="400" height="240" src="https://github.com/gbkorr/Banana-Brawl-Bonanza/blob/main/promo/combo_demo.gif" />
+
+<img width="1139" height="729" alt="Screen Shot 2026-02-25 at 10 59 34" src="https://github.com/user-attachments/assets/c50e5ea1-4dbe-4684-a246-3d8e09a0ee03" />
 
 ## Wild
 
