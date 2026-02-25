@@ -15,6 +15,9 @@ And of course, the art and animations are of a much higher quality than Banana B
 
 <img width="600" height="400" alt="Screen Shot 2026-02-25 at 10 59 34" src="https://github.com/user-attachments/assets/c50e5ea1-4dbe-4684-a246-3d8e09a0ee03" />
 
+# Characters
+Almost all of these characters are fully sprited and coded! I just don't have footage of them all at the moment, and many have yet to be ported from the Alpha. 
+
 ## Wild
 
 <img align="left" width="97" height="93" alt="Screen Shot 2026-02-25 at 10 38 44" src="https://github.com/user-attachments/assets/70571140-a3a6-4eb1-bb7e-89661790379f" />
