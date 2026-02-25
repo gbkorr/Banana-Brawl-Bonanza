@@ -11,9 +11,16 @@ And of course, the art and animations are of a much higher quality than Banana B
 ![](https://github.com/user-attachments/assets/738f809e-93e0-47af-8520-9a5ab66b47f1)
 
 <img width="400" height="240" src="https://github.com/gbkorr/Banana-Brawl-Bonanza/blob/main/promo/combo_demo.gif" />
+
+With working netcode! Here I'm playing cross-country with friends.
+[two gifs here showing alligator and flamingo]
+
+Early video of netcode from the Pre-alpha:
 <img width="400" height="240" src="https://github.com/gbkorr/Banana-Brawl-Bonanza/blob/main/promo/netcode_demo.gif" />
 
+Keybinds Menu
 <img width="600" height="400" alt="Screen Shot 2026-02-25 at 10 59 34" src="https://github.com/user-attachments/assets/c50e5ea1-4dbe-4684-a246-3d8e09a0ee03" />
+
 
 # Characters
 Almost all of these characters are fully sprited and coded! I just don't have footage of them all at the moment, and many have yet to be ported from the Alpha. 
