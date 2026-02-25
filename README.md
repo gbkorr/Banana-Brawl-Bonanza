@@ -4,7 +4,7 @@ Unfinished sequel to Banana Brawl with working online multiplayer, also from Hig
 
 The focus of this project was to make really clean, maintainable code, and I think I succeeded. The codebase (aside from maybe the menus) was very convenient to work with and add new content to.
 
-
+And of course, the art and animations are of a much higher quality than Banana Brawl. 
 
 lotsa videos
 
