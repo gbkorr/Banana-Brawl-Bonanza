@@ -1,6 +1,5 @@
 let online;
-const bananaURL = 'http://172.31.126.24:8000'; //that's the server
-//const bananaURL = 'http://localhost:8000'; //that's this computer
+const bananaURL = 'http://localhost:8000'; //that's this computer
 
 
 function average(list){
