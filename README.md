@@ -1,6 +1,6 @@
 # Banana-Brawl-Bonanza
 
-Unfinished sequel to Banana Brawl with working online multiplayer, also from High School. The engine is complete, but no fleshed-out game.
+Unfinished sequel to Banana Brawl with working online multiplayer, also from High School. The engine is complete (~3400 lines of code), but no fleshed-out game.
 
 The focus of this project was to make really clean, maintainable code, and I think I succeeded. The codebase (aside from maybe the menus) was very convenient to work with and add new content to.
 
