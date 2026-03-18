@@ -30,24 +30,40 @@ Almost all of these characters are fully sprited and coded! I just don't have fo
 
 <img align="left" width="97" height="93" alt="Screen Shot 2026-02-25 at 10 38 44" src="https://github.com/user-attachments/assets/70571140-a3a6-4eb1-bb7e-89661790379f" />
 
-<br><br><br><br>
+### Banantis
+A vicious hunter with powerful grabs and slashing attacks. Can hover with its wings.
+<br><br>
 
 <img align="left" width="112" height="104" alt="Screen Shot 2026-02-25 at 10 34 32" src="https://github.com/user-attachments/assets/735e99f5-230d-491f-a337-99af67c9b62e" />
 
-<br><br><br><br>
+### Bananalligator
+A mysterious creature from the swamps, capable of vanishing into thin air. Beware its strong jaws and tail!
+<br><br>
 
 <img align="left" width="75" height="100" alt="Screen Shot 2026-02-25 at 10 38 08" src="https://github.com/user-attachments/assets/1e532c3e-f950-4b86-a7fe-735ea04a32b1" />
 
-<br><br><br><br><br>
+### [Bird]
+A flamingo with peels for wings. Its combos center around juggling the opponent upwards with fast kicks.
+<br><br><br>
 
 <img align="left" width="100" height="90" alt="Screen Shot 2026-02-25 at 10 39 26" src="https://github.com/user-attachments/assets/3c2f4451-54f4-48b1-a750-ffd3e3b594a5" />
 
-<br><br><br><br>
+### [Pterosaur]
+A batlike banana with agile wings.
+<br><br>
+
+<img align="left" width="108" height="96" alt="Screen Shot 2026-02-25 at 10 34 11" src="https://github.com/user-attachments/assets/78292d23-f49c-43d4-b98b-e7a14a84a702" />
+
+### Demonana
+The classic antagonist, reborn... new with even more combos!
+<br><br>
 
 <img align="left" width="100" height="122" alt="Screen Shot 2026-02-25 at 10 39 41" src="https://github.com/user-attachments/assets/949b9124-689e-4305-b044-0816797b2958" />
-<img width="108" height="106" alt="Screen Shot 2026-02-25 at 10 39 45" src="https://github.com/user-attachments/assets/e2d62389-2619-463b-8999-f829200e74cf" />
+<img align="left" width="108" height="106" alt="Screen Shot 2026-02-25 at 10 39 45" src="https://github.com/user-attachments/assets/e2d62389-2619-463b-8999-f829200e74cf" />
 
-<br><br><br><br>
+### [Satellite]
+A high-tech cyborg of fruit and metal. Transitions from Rover Form to Satellite Form when it goes airborne, where it has low gravity, airdashes, and big, zoning attacks.
+<br><br>
 
 ## Humanoid
 <img align="left" width="112" height="104" alt="Screen Shot 2026-02-25 at 10 34 32" src="https://github.com/user-attachments/assets/5345d951-2b30-42ff-b890-f1c8e9ac9386" />
