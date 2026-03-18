@@ -13,7 +13,8 @@ And of course, the art and animations are of a much higher quality than Banana B
 <img width="400" height="240" src="https://github.com/gbkorr/Banana-Brawl-Bonanza/blob/main/promo/combo_demo.gif" />
 
 With working netcode! Here I'm playing cross-country with friends.<br>
-[two gifs here showing alligator and flamingo]
+<img width="400" height="240" src="https://github.com/gbkorr/Banana-Brawl-Bonanza/blob/main/promo/friends_croc.gif" />
+<img width="400" height="240" src="https://github.com/gbkorr/Banana-Brawl-Bonanza/blob/main/promo/friends_bird.gif" />
 
 Early video of netcode from the Pre-alpha:<br>
 <img width="400" height="240" src="https://github.com/gbkorr/Banana-Brawl-Bonanza/blob/main/promo/netcode_demo.gif" />
