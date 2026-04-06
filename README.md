@@ -115,5 +115,5 @@ I prototyped the engine and netcode in the fall of 2022, and then rewrote the wh
 
 Since Banana Brawl Bonanza underwent a major code rewrite, many assets and characters from the original Alpha version have yet to be reimplemented. The code and sprites for these can be found in the `Alpha Assets` folder.
 
-
+The main codebase (`resources` folder) is pretty well-structured and commented, but I unfortunately never made any writeups of how the larger-scale systems work and interconnect.
 
